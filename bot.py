@@ -14,7 +14,7 @@ from aiogram.fsm.context import FSMContext
 
 logging.basicConfig(level=logging.INFO)
 
-TOKEN = "7541026524:AAHd_jObuZwQYv10bGmCP_VUW6ZQCtttIxk"
+TOKEN = ""
 
 # Инициализация
 bot = Bot(token=TOKEN)
